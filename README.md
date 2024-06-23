@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Express JS Backend**
 
-- 💬 Ask me about **React, React Native, Backend Logic**
+- 💬 Ask me about **React, React Native App Dev, Web Dev, Backend Logic**
 
 - 📫 How to reach me **emailidakashchowdhury@gmail.com**
 
